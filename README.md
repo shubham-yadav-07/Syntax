@@ -16,45 +16,45 @@ Syntax is a web-based platform that helps users analyze DSA code and understand 
 * Saved Reports
 * Dashboard Insights
 
-## 🖼️ Screenshots
+## Outputs
 
-### 🚀 Landing Page
+### Landing Page
 
 ![Landing Page](assets/landing-page.png)
 
 ---
 
-### 📊 Analysis Dashboard
+### Analysis Dashboard
 
 ![Dashboard](assets/dashboard.png)
 
 ---
 
-### 🤖 AI Suggestions
+### AI Suggestions
 
 ![AI Suggestions](assets/suggestions.png)
 
 ---
 
-### 🔄 Alternative Solutions
+### Alternative Solutions
 
 ![Alternative Solutions](assets/alternative-solutions.png)
 
 ---
 
-### 🕒 Analysis History
+### Analysis History
 
 ![Analysis History](assets/history.png)
 
 ---
 
-### 📈 Performance Insights
+### Performance Insights
 
 ![Performance Insights](assets/insights.png)
 
 ---
 
-### ⚙️ Settings Page
+### Settings Page
 
 ![Settings](assets/settings.png)
 ## Technologies Used
