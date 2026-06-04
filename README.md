@@ -42,6 +42,12 @@ Syntax is a web-based platform that helps users analyze DSA code and understand 
 
 ---
 
+### 🕒 Analysis History
+
+![Analysis History](assets/history.png)
+
+---
+
 ### 📈 Performance Insights
 
 ![Performance Insights](assets/insights.png)
@@ -51,7 +57,6 @@ Syntax is a web-based platform that helps users analyze DSA code and understand 
 ### ⚙️ Settings Page
 
 ![Settings](assets/settings.png)
-
 ## Technologies Used
 
 ### Frontend
